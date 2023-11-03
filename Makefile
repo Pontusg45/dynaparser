@@ -1,2 +1,2 @@
 run:
-	rustc src/main.rs && ./main
+	cargo run
