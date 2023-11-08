@@ -14,3 +14,10 @@ Cargo.lock
 *.pdb
 
 main
+
+res/testLogs
+res/testSchemas
+
+.DS_Store
+
+.idea
