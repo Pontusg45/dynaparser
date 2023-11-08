@@ -1,0 +1,1 @@
+{  "groups":{    "date_format": "^.{0,15}",    "id": "\\S+",    "name": "\\S+",    "output": ".+"  },  "session": {    "start": "#date_format #id #name Starting #output",    "finished": "#date_format #id #name Finished #output",    "error": "#date_format #id #name Failing #output"  }}
